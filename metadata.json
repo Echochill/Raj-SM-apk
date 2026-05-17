@@ -1,0 +1,8 @@
+{
+  "name": "Raj SM Agency",
+  "description": "A modern, client-ready professional portfolio template designed for the 2026 AI era. Features soft gradients, floating interactive elements, and sections for social media managers, designers, and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
